@@ -1,18 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zomato Logo</title>
 </head>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">created by the Great playboy genius philanthropist</h1>
-
-	<h1 style="color: violet; font-size: 40px;" align="center">Sujith Thota</h1>
-	
-	
-	
-	
-	
+    <img src="https://b.zmtcdn.com/web_assets/81f852130ffa13f9608cfe41e3b6ff751565409510.png" alt="Zomato Logo">
 </body>
 </html>
