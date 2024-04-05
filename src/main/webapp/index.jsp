@@ -6,6 +6,6 @@
     <title>Zomato Logo</title>
 </head>
 <body>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fgadgets-news%2Fzomato-has-a-new-food-delivery-service-price-and-other-details%2Farticleshow%2F98153435.cms&psig=AOvVaw27UzaY1TECuoNB6vLzQMC_&ust=1712415584181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDmwairq4UDFQAAAAAdAAAAABAE" alt="Zomato Logo">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXY138NGr22Mr_Os1v732AyLLznvtnsW4TVg&s" alt="Zomato Logo">
 </body>
 </html>
